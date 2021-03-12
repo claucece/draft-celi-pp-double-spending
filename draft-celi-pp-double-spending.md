@@ -1,7 +1,7 @@
 ---
-title: TODO - Your title
+title: Double Spending in Privacy Pass
 abbrev: TODO - Abbreviation
-docname: draft-celi-pp-double-spending
+docname: draft-celi-pp-double-spending-latest
 category: info
 
 ipr: trust200902
